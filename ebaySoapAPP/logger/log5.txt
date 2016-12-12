@@ -1,0 +1,49 @@
+{"level":"info","message":"signin was successful","timestamp":"2016-10-27T03:09:25.198Z"}
+{"level":"info","message":"inside home page get method!","timestamp":"2016-10-27T03:09:25.723Z"}
+{"level":"info","message":"inside /home post method!","timestamp":"2016-10-27T03:09:25.873Z"}
+{"level":"info","message":"inside /cataLouge post","timestamp":"2016-10-27T03:09:25.880Z"}
+{"level":"info","message":"select * from sell where not seller_id ='70'","timestamp":"2016-10-27T03:09:25.881Z"}
+{"level":"info","message":"cataLouge retrival was successful","timestamp":"2016-10-27T03:09:25.891Z"}
+{"level":"info","message":"inside /item get","timestamp":"2016-10-27T03:09:34.580Z"}
+{"level":"info","message":"inside /home post method!","timestamp":"2016-10-27T03:09:34.803Z"}
+{"level":"info","message":"inside /item post","timestamp":"2016-10-27T03:09:34.810Z"}
+{"level":"info","message":"select * from sell where item_id='3'","timestamp":"2016-10-27T03:09:34.811Z"}
+{"level":"info","message":"inside home page get method!","timestamp":"2016-10-27T03:09:49.828Z"}
+{"level":"info","message":"inside /home post method!","timestamp":"2016-10-27T03:09:49.957Z"}
+{"level":"info","message":"inside /cataLouge post","timestamp":"2016-10-27T03:09:49.962Z"}
+{"level":"info","message":"select * from sell where not seller_id ='70'","timestamp":"2016-10-27T03:09:49.965Z"}
+{"level":"info","message":"cataLouge retrival was successful","timestamp":"2016-10-27T03:09:49.974Z"}
+{"level":"info","message":"inside /item get","timestamp":"2016-10-27T03:09:51.827Z"}
+{"level":"info","message":"inside /home post method!","timestamp":"2016-10-27T03:09:52.071Z"}
+{"level":"info","message":"inside /item post","timestamp":"2016-10-27T03:09:52.078Z"}
+{"level":"info","message":"select * from sell where item_id='12'","timestamp":"2016-10-27T03:09:52.079Z"}
+{"level":"info","message":"item catogory is auction!","timestamp":"2016-10-27T03:09:52.079Z"}
+{"level":"info","message":"Item listing is active","timestamp":"2016-10-27T03:09:52.106Z"}
+{"level":"info","message":"inside home page get method!","timestamp":"2016-10-27T03:10:29.764Z"}
+{"level":"info","message":"inside /home post method!","timestamp":"2016-10-27T03:10:30.035Z"}
+{"level":"info","message":"inside /cataLouge post","timestamp":"2016-10-27T03:10:30.041Z"}
+{"level":"info","message":"select * from sell where not seller_id ='70'","timestamp":"2016-10-27T03:10:30.042Z"}
+{"level":"info","message":"cataLouge retrival was successful","timestamp":"2016-10-27T03:10:30.044Z"}
+{"level":"info","message":"Bid is expired and now automatic function will perfrom the task to announce winner!","timestamp":"2016-10-27T03:11:16.679Z"}
+{"level":"info","message":"SELECT * from ebay.bids where price = (SELECT MAX(price) FROM ebay.bids)","timestamp":"2016-10-27T03:11:16.680Z"}
+{"level":"info","message":"selected highest bidder from bids databases","timestamp":"2016-10-27T03:11:16.773Z"}
+{"level":"info","message":"INSERT INTO transection SET `total` = 100, `user_id` = '66', `id` = '066465e0-9bf3-11e6-b773-532a59b4a412'","timestamp":"2016-10-27T03:11:16.799Z"}
+{"level":"info","message":"winner of bid transection table is updated","timestamp":"2016-10-27T03:11:16.847Z"}
+{"level":"info","message":"INSERT INTO order_details SET `seller_id` = 65, `item` = 'to sell', `transection_id` = '066465e0-9bf3-11e6-b773-532a59b4a412', `qty` = 1","timestamp":"2016-10-27T03:11:16.847Z"}
+{"level":"info","message":"inside /signin get","timestamp":"2016-12-11T20:59:32.617Z"}
+{"level":"info","message":"inside /afterSignIn post","timestamp":"2016-12-11T20:59:37.674Z"}
+{"level":"info","message":"signin was failed","timestamp":"2016-12-11T20:59:37.707Z"}
+{"level":"info","message":"inside /signin get","timestamp":"2016-12-11T20:59:39.367Z"}
+{"level":"info","message":"inside /signup get","timestamp":"2016-12-11T21:00:24.221Z"}
+{"level":"info","message":"inside /signup_scccess post","timestamp":"2016-12-11T21:02:22.782Z"}
+{"level":"info","message":"inside /signin get","timestamp":"2016-12-11T21:02:25.114Z"}
+{"level":"info","message":"inside /afterSignIn post","timestamp":"2016-12-11T21:02:28.652Z"}
+{"level":"info","message":"signin was failed","timestamp":"2016-12-11T21:02:28.667Z"}
+{"level":"info","message":"inside /signin get","timestamp":"2016-12-11T21:02:29.717Z"}
+{"level":"info","message":"inside /afterSignIn post","timestamp":"2016-12-11T22:45:26.259Z"}
+{"level":"info","message":"inside home page get method!","timestamp":"2016-12-11T22:45:27.343Z"}
+{"level":"info","message":"inside /home post method!","timestamp":"2016-12-11T22:45:27.610Z"}
+{"level":"info","message":"inside /cataLouge post","timestamp":"2016-12-11T22:45:27.617Z"}
+{"level":"info","message":"cataLouge retrival was successful","timestamp":"2016-12-11T22:45:27.651Z"}
+{"level":"info","message":"inside /logout post","timestamp":"2016-12-11T22:45:30.718Z"}
+{"level":"info","message":"inside /signin get","timestamp":"2016-12-11T22:45:32.183Z"}

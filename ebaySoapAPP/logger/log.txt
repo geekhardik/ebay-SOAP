@@ -1,0 +1,22 @@
+{"level":"info","message":"inside /signin get","timestamp":"2016-12-12T00:25:01.043Z"}
+{"level":"info","message":"inside /afterSignIn post","timestamp":"2016-12-12T00:25:05.198Z"}
+{"level":"info","message":"inside home page get method!","timestamp":"2016-12-12T00:25:06.951Z"}
+{"level":"info","message":"inside /home post method!","timestamp":"2016-12-12T00:25:07.190Z"}
+{"level":"info","message":"inside /cataLouge post","timestamp":"2016-12-12T00:25:07.197Z"}
+{"level":"info","message":"cataLouge retrival was successful","timestamp":"2016-12-12T00:25:07.222Z"}
+{"level":"info","message":"inside /item get","timestamp":"2016-12-12T00:25:11.322Z"}
+{"level":"info","message":"inside /home post method!","timestamp":"2016-12-12T00:25:11.573Z"}
+{"level":"info","message":"inside /item post","timestamp":"2016-12-12T00:25:11.580Z"}
+{"level":"info","message":"inside /cart post","timestamp":"2016-12-12T00:25:17.744Z"}
+{"level":"info","message":"selected quantity was added into cart","timestamp":"2016-12-12T00:25:17.920Z"}
+{"level":"info","message":"inside cart page get method!","timestamp":"2016-12-12T00:25:17.933Z"}
+{"level":"info","message":"inside /home post method!","timestamp":"2016-12-12T00:25:18.087Z"}
+{"level":"info","message":"inside /getCart post method!","timestamp":"2016-12-12T00:25:18.093Z"}
+{"level":"info","message":"getcart retrival is successful","timestamp":"2016-12-12T00:25:18.115Z"}
+{"level":"info","message":"inside gotocheckout page post method!","timestamp":"2016-12-12T00:25:20.629Z"}
+{"level":"info","message":"inside gotocheckout page post method!","timestamp":"2016-12-12T00:25:20.638Z"}
+{"level":"info","message":"inside /home post method!","timestamp":"2016-12-12T00:25:20.847Z"}
+{"level":"info","message":"inside /getCart post method!","timestamp":"2016-12-12T00:25:20.856Z"}
+{"level":"info","message":"getcart retrival is successful","timestamp":"2016-12-12T00:25:20.869Z"}
+{"level":"info","message":"inside /logout post","timestamp":"2016-12-12T00:25:24.888Z"}
+{"level":"info","message":"inside /signin get","timestamp":"2016-12-12T00:25:26.211Z"}
